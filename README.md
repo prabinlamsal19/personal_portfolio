@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+Personal portfolio of Prabin Lamsal -CE 2018 student of KU
+
+
+ Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
