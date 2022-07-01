@@ -8,6 +8,16 @@ export const featuredPortfolio = [
         id: 2,
         title: "Rampa UI design",
         img: "assets/travel.jpg"   
+    },
+    {
+        id: 3,
+        title: "Rampa UI design",
+        img: "assets/travel.jpg"   
+    },
+    {
+        id: 4,
+        title: "Rampa UI design",
+        img: "assets/travel.jpg"   
     }
 ]
 
@@ -19,6 +29,18 @@ export const webPortfolio = [
 },
     { 
     id: 2,
+    title: "Web Rampa UI Design",
+    img: "assets/travel.jpg"   
+}
+,
+    { 
+    id: 3,
+    title: "Web Rampa UI Design",
+    img: "assets/travel.jpg"   
+}
+,
+    { 
+    id: 4,
     title: "Web Rampa UI Design",
     img: "assets/travel.jpg"   
 }
@@ -34,6 +56,16 @@ export const mobilePortfolio = [
     id: 2,
     title: " Mobile Social Media Application",
     img: "assets/travel.jpg"   
+},
+{ 
+    id: 3,
+    title: "Travel Nepal Mobile Application",
+    img: "assets/travel.jpg"
+     },
+    { 
+    id: 4,
+    title: " Mobile Social Media Application",
+    img: "assets/travel.jpg"   
 }
 ]
 
@@ -45,6 +77,16 @@ export const designPortfolio = [
 },
     { 
     id: 2,
+    title: "Esewa HCI evaluation",
+    img: "assets/travel.jpg"   
+},
+{ 
+    id: 3,
+    title: "Design Travel Nepal Application",
+    img: "assets/travel.jpg"   
+},
+    { 
+    id: 4,
     title: "Esewa HCI evaluation",
     img: "assets/travel.jpg"   
 }
@@ -59,5 +101,15 @@ export const contentPortfolio = [
     id: 2,
     title: "If Programming was an anime",
     img: "assets/travel.jpg"   
-    }
+    },
+    { 
+        id: 3,
+        title: "How to build housing price predictor",
+        img: "assets/travel.jpg"   
+         },
+        { 
+        id: 4,
+        title: "If Programming was an anime",
+        img: "assets/travel.jpg"   
+        }
 ]
